@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">I like machine learning and deep learning.<br><br>I know and can use:
-  * numpy   
-  * scikit learn 
-  * CatBoost
-  * XGBoost
-  * FCNN
-  * CNN
-  * RNN
-  * Transoformers
-
+<ul>
+  <li>numpy</li>
+  <li>scikit learn </li>
+  <li>CatBoost</li>
+  <li>XGBoost</li>
+  <li>FCNN</li>
+ <li>CNN</li>
+ <li>RNN</li>
+  <li>Transoformers</li>
+</ul>
 ###
 
 <div align="center">
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/JRTitor/JRTitor/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
