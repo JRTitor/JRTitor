@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JRTitor/JRTitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,15 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I like machine learning and deep learning.<br><br>I know and can use:<br>    numpy<br>    scikit learn<br>    CatBoost<br>    XGBoost<br>FCNN<br>CNN<br>RNN<br>Transoformers</p>
+<p align="left">I like machine learning and deep learning.<br><br>I know and can use:
+  * numpy   
+  * scikit learn 
+  * CatBoost
+  * XGBoost
+  * FCNN
+  * CNN
+  * RNN
+  * Transoformers
 
 ###
 
