@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="https://t.me/JRTitor"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <a href="https://mail.google.com/mail/u/?authuser=lokk777@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <a href="https://www.kaggle.com/sergeychernykh"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/kaggle/default.svg" width="52" height="40" alt="kaggle logo"  />
+  <a href="https://www.kaggle.com/sergeychernykh"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="52" height="40" alt="kaggle logo"  />
 
 </div>
 
