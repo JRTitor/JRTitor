@@ -23,9 +23,13 @@ Here are some ideas to get you started:
   <li>Data Visualisation</li>
   <li>Classical ML</li>
   <li>Netural Networks</li>
-  <li>CNN</li>
-  <li>RNN</li>
-  <li>Transoformers</li>
+  <ul>
+    <li>Feed Forward Neural Network</li>
+    <li>Convolutional Neural Network</li>
+    <li>Generative Adversarial Networksk</li>
+    <li>Recurrent Neural Network</li>
+    <li>Transoformers</li>
+  </ul>
 </ul>
 
 
@@ -39,24 +43,25 @@ Here are some ideas to get you started:
   <img width="12" />
   <a href="https://pandas.pydata.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <a href="https://pytorch.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <a href="https://jupyter.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <a href="https://huggingface.co/"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" height="40" alt="huggingface logo"  />
-  <img width="12" />
-  <a href="https://colab.google/"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="google colab logo"  />
-  <img width="12" />
-  <a href="https://scikit-learn.org/stable/"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="scikit-learn logo"  />
-  <img width="12" />
-  <a href="https://catboost.ai/"> <img src="https://yastatic.net/s3/locdoc/daas-static/catboost/71b237a322eec6f2889af0dae2a9c549.svg" height="40" alt="google colab logo"  />
-  <img width="12" />
   <a href="https://plotly.com/"> <img src="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png?auto=compress%2Cformat&fit=max&w=128" height="40" alt="plotly logo"  />
   <img width="12" />
   <a href="https://matplotlib.org/"> <img src="https://matplotlib.org/_static/logo_dark.svg" height="40" alt="matplotlib logo"  />
   <img width="12" />
   <a href="https://seaborn.pydata.org/"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo"  />
   <img width="12" />
+  <a href="https://colab.google/"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="google colab logo"  />
+  <img width="12" />
+  <a href="https://jupyter.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <a href="https://scikit-learn.org/stable/"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="scikit-learn logo"  />
+  <img width="12" />
+  <a href="https://catboost.ai/"> <img src="https://yastatic.net/s3/locdoc/daas-static/catboost/71b237a322eec6f2889af0dae2a9c549.svg" height="40" alt="google colab logo"  />
+  <img width="12" />
+  <a href="https://pytorch.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <a href="https://huggingface.co/"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" height="40" alt="huggingface logo"  />
+  <img width="12" />
+
 </div>
 
 
